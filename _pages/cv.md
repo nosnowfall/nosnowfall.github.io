@@ -9,21 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+If file does not load below, <a href="{{ site.baseurl }}/files/Elijah_Berger_resume.pdf">try downloading (pdf).</a>
 
-
-Education
-======
-* M.S. in Electrical and Computer Engineering, UW-Madison, 2026 (expected)
-* B.A. in Physics, Bowdoin College, 2021
-
-Work experience
-======
-* Graduate Research Assistant at WEMPEC
-  * Aug. 2024 - present
-    
-* Process Manager - Service at Prodrive Technologies
-  * Mar. 2022 - Aug. 2024
-  * responsibilities in addition to Systems Analysis position
-
-* Systems Analysis Engineer at Prodrive Technologies
-  * Sep. 2021 - Aug. 2024
+<object data="{{ site.baseurl }}/files/Elijah_Berger_resume.pdf" type="application/pdf" width="100%" height="100%" scrolling="auto" frameborder="0">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href=""{{ site.baseurl }}/files/Elijah_Berger_resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
