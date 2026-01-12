@@ -1,6 +1,6 @@
 ---
 title: "Probe Deskew Tool"
-excerpt: "Correct for skew between current and voltage probes <br/><img src='/images/deskew_3d.png'>"
+excerpt: "Correct for skew between current and voltage probes <br/><img src='/images/deskew_3d.png' width='390' height='303'>"
 collection: personalprojects
 ---
 
