@@ -1,6 +1,6 @@
 ---
 title: "10 MHz full bridge inverter"
-excerpt: "Two 100 V GaN half bridges designed for off-board resonant loads.<br/><img src='/images/mvfb_side.png'>"
+excerpt: "Two 100 V GaN half bridges designed for off-board resonant loads.<br/><img src='/images/mvfb_side.png' width='504' height='303'>"
 collection: portfolio
 ---
 
