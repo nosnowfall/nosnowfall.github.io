@@ -262,12 +262,12 @@ defaults:
   # _personalprojects
   - scope:
       path: ""
-      type: portfolio
+      type: personalprojects
     values:
       layout: single
       author_profile: true
       share: false
-      commend: true
+      comment: true
 
 # Sass/SCSS
 sass:
