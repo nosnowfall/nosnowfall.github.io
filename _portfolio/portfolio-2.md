@@ -1,6 +1,6 @@
 ---
 title: "Phase-correct hysteresis controller"
-excerpt: "Amplifier envelope controller that preserves phase-shift keying <br/><img src='/images/hysteresis_blockdiagram.png'>"
+excerpt: "Amplifier envelope controller that preserves phase-shift keying <br/><img src='/images/hysteresis_blockdiagram.png' height="212" width="486">"
 collection: portfolio
 ---
 
