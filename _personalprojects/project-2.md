@@ -1,6 +1,6 @@
 ---
 title: "Keithley 2000 repair"
-excerpt: "6.5 digit multimeter with a simple ADC failure <br/><img src='/images/k2000?_front.jpg' width='438' height='330'>"
+excerpt: "6.5 digit multimeter with a simple ADC failure <br/><img src='/images/k2000_front.jpg' width='438' height='330'>"
 collection: personalprojects
 ---
 
