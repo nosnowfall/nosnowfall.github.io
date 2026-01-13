@@ -1,6 +1,6 @@
 ---
 title: "Keithley 580 Micro-Ohmmeter"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/k580.jpg' width='432' height='324'>"
+excerpt: "The meter that started it all <br/><img src='/images/k580.jpg' width='432' height='324'>"
 collection: personalprojects
 ---
 
