@@ -10,7 +10,7 @@ Enter the deskew fixture: all it does is generate a simultaneous step in voltage
 
 ![](/images/deskew_sch.png)
 
-My design is basically a copy of the ones discussed in [this EEVblog forum threa](https://www.eevblog.com/forum/testgear/scope-probe-deskew-fixture-pcb-project/), with small alterations for my preferred components. The circuit works as follows:
+My design is basically a copy of the ones discussed in [this EEVblog forum thread](https://www.eevblog.com/forum/testgear/scope-probe-deskew-fixture-pcb-project/), with small alterations for my preferred components. The circuit works as follows:
 1. A DC supply feeds a current divider with two lower legs with an upper leg of 20 ohms (split into five resistors).
     - The driven lower leg is a small MOSFET with only 0.8 nC Qg for maximum switching speed. The MOSFET on-state resistance must be low enough that negligible current flows through the sense leg while it is on.
     - The sense leg consists of a wire bridge or coil followed by another 20 ohm resistor bank. The wire can have some (small) inductance, but the resistor bank must have low inductance to supply ground.
