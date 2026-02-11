@@ -11,3 +11,6 @@ I was excited to find this meter, since I'd been using a Keithley 2700 for resea
 ![](/images/k2000_inner.jpg)
 
 It didn't seem to respond to any change of input either outside or inside the composite. Not knowing which chip was defective and in the interest of time, I simply replaced them both. Now that I'd fixed it, I went ahead and replaced all of the electrolytic supply capacitors as a precaution - I want this meter to last. I don't yet have a way to calibrate it, but most of the measurements compare favorably with newer 6.5 digit meters in the WEMPEC lab, including the 2700. I recently found a multiplexer card compatible with this unit, which puts me one step closer to using its full scanning meter capability.
+
+---
+February 2026 update: the RS232 converter has gone haywire. This is apparently a failure for older Keithley 20xx main boards, something to do with an output control line incompatibility with the true RS232 spec. Hopefully I can just replace the transceiver and update firmware while I'm at it.
