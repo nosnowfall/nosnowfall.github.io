@@ -22,3 +22,7 @@ This version generates 125 mA / 2.5 V steps with about 5 ns rise time at a defau
 ![](/images/deskew_3d.png)
 
 The board cutout is designed to accomodate two standard current probes at once, and the dual terminal blocks allow some flexibility in sense coil winding. My version of the fixture includes an SMA voltage output for direct scope connection as well as an auxiliary clock input should the user desire some frequency beyond what the MIC1557 timer can support. It consumes 1 Watt on average, and care should be taken not to leave the board powered with no clock running, or the top leg resistors may overheat. It can be powered either from a lab bench supply or a USB-C charger, but should not be connected to regular USB peripheral ports.
+
+Here it is in action. The left SMA cable brings in an external clock, and the SMA up top is a second voltage sense output directly to the oscilloscope.
+
+![](/images/deskewinaction.png)
